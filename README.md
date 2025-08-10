@@ -11,7 +11,7 @@ Contributors:
 - Cameron Robinson
 
 ## Demonstration
-[![](https://i9.ytimg.com/vi/PiwBYNNtfWc/mqdefault.jpg?sqp=CJTAnLIG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBVKEowDw==&rs=AOn4CLBdcHFblcNYZSEtzdvO9mVU2vW7KA)](https://youtube.com/shorts/PiwBYNNtfWc "Watch UI Demonstration")
+https://github.com/user-attachments/assets/3c86fcff-0a74-4220-a1e3-07b8abd6be38
 
 ## Installation
 ### Requirements
@@ -216,3 +216,4 @@ The screens available on the watch:
     - **Storing and analysis of data**: To improve the usability of the watch I would implement a syncing feature where at the end of the day the watch attempts to write the users data e.g. number of steps, kcal and miles to a web server which stores the data. The user could then access a website which displays this data in  meaningful way such as tracking average steps over a certain period of time or calories burned in a week. 
 
     - **Performance improvements:** To improve battery life of the watch when the screen is off further testing could be done to disable processes which aren't necessary. Also could look at reducing the amount of checks of certain functions.
+
