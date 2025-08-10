@@ -6,6 +6,9 @@
 ## Introduction
 <!-- ***Add intro about the project and the watch here*** - Cam -->
 This project aims to create a simple user interface for the LilyGO T-Watch 2020 v3 providing the user with a multi screen interface implementing different aspects of the watches hardware.
+Contributors:
+- Khanh Linh Tran
+- Cameron Robinson
 
 ## Demonstration
 [![](https://i9.ytimg.com/vi/PiwBYNNtfWc/mqdefault.jpg?sqp=CJTAnLIG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBVKEowDw==&rs=AOn4CLBdcHFblcNYZSEtzdvO9mVU2vW7KA)](https://youtube.com/shorts/PiwBYNNtfWc "Watch UI Demonstration")
